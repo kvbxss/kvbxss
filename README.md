@@ -3,7 +3,7 @@
  <br>
  🌱 I’m currently learning React deeply and practicing JS all the time.
  <br>
- 📫 How to reach me: jakubdownarowicz.pl .
+ 📫 How to reach me: <a href='jakubdownarowicz.pl> jakubdownarowicz.pl </a>  .
 
 <!--
 **kvbxss/kvbxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
