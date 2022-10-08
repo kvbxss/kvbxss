@@ -1,6 +1,8 @@
 ### Hi there 👋
  ⚡ I am _focused_ and interested in Web Dev mainly Frontend.
+ <br>
  🌱 I’m currently learning React deeply and practicing JS all the time.
+ <br>
  📫 How to reach me: jakubdownarowicz.pl .
 
 <!--
