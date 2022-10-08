@@ -1,7 +1,7 @@
 ### Hi there 👋
-## ⚡ I am _focused_ and interested in Web Dev mainly Frontend.
-## 🌱 I’m currently learning React deeply and practicing JS all the time.
-## 📫 How to reach me: jakubdownarowicz.pl .
+# ⚡ I am _focused_ and interested in Web Dev mainly Frontend.
+# 🌱 I’m currently learning React deeply and practicing JS all the time.
+# 📫 How to reach me: jakubdownarowicz.pl .
 
 <!--
 **kvbxss/kvbxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
