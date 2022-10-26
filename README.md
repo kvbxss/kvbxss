@@ -1,6 +1,5 @@
 ### Hi there, I'm Jacob - [jakubdownarowicz][portfolio] 👋
 
-[![Portfolio](https://www.jakubdownarowicz.pl/)][portfolio]
 
 ## I am a Junior Frontend Dev.
 - ⚡ I am currently working on a [HalsUstronie][website].
