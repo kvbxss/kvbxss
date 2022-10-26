@@ -22,8 +22,8 @@
 <img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 
-<br />
----
+
+
 
 ### Github Stats
 ![kvbxss GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbxss)
