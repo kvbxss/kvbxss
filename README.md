@@ -6,7 +6,7 @@
 - 🎉 My recent project is [mncentrum][mnwebsite].
 - 🌱 I’m currently learning React deeply and practicing JS all the time.
 - 🔭 2022 Goals: Spread my wings as a Front-end Developer.
-- ⚡ Fun fact: I like wearing a hood even when I'm inside a building.
+- ⚡ Fun fact: Brałem udział w głosowaniu na sołtysa.
 
 <br />
 
