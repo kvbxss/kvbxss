@@ -1,7 +1,10 @@
-### Hi there, I'm Jacob - [jakubdownarowicz][website]👋
+### Hi there, I'm Jacob - [jakubdownarowicz][portfolio] 👋
+
+[![Portfolio](https://www.jakubdownarowicz.pl/)][portfolio]
 
 ## I am a Junior Frontend Dev.
 - ⚡ I am currently working on a [HalsUstronie][website].
+- 🎉 My recent project is [mncentrum][mnwebsite].
 - 🌱 I’m currently learning React deeply and practicing JS all the time.
 - 🔭 2022 Goals: Spread my wings as a Front-end Developer.
 - ⚡ Fun fact: I like wearing a hood even when I'm inside a building.
@@ -27,17 +30,8 @@
 
 ### Github Stats
 ![kvbxss GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbxss)
-<!--
-**kvbxss/kvbxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[portfolio]: https://www.jakubdownarowicz.pl/
+[website]: https://www.hals-ustronie.pl/
+[mnwebsite]: https://mncentrum.com/
