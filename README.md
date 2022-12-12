@@ -4,9 +4,9 @@
 ## I am a Junior Frontend Dev.
 - ⚡ I am currently working on a [HalsUstronie][website].
 - 🎉 My recent project is [mncentrum][mnwebsite].
-- 🌱 I’m currently learning React deeply and practicing JS all the time.
-- 🔭 2022 Goals: Spread my wings as a Front-end Developer.
-- ⚡ Fun fact: Brałem udział w głosowaniu na sołtysa.
+- 🌱 I’m currently learning React in-depth and practicing JS all the time.
+- 🔭 2023 Goals: Spread my wings as a Front-end Developer (try to lick a little backend).
+- ⚡ Fun fact: https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball.
 
 <br />
 
