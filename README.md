@@ -2,7 +2,7 @@
 
 
 ## I am a Junior Frontend Dev.
-- ⚡ I am currently working on a [HalsUstronie][website].
+- ⚡ I am currently working on a Three.JS project.
 - 🎉 My recent project is [mncentrum][mnwebsite].
 - 🌱 I’m currently learning React in-depth and practicing JS all the time.
 - 🔭 2023 Goals: Spread my wings as a Front-end Developer (try to lick a little backend).
@@ -32,5 +32,4 @@
 
 
 [portfolio]: https://www.jakubdownarowicz.pl/
-[website]: https://www.hals-ustronie.pl/
 [mnwebsite]: https://mncentrum.com/
