@@ -2,9 +2,9 @@
 
 
 ## I am a Junior Frontend Dev.
-- ⚡ I am currently working on a Three.JS project.
-- 🎉 My recent project is [mncentrum][mnwebsite].
-- 🌱 I’m currently learning React in-depth and practicing JS all the time.
+- ⚡ I am currently working on a Three.JS project and a new portfolio.
+- 🎉 My recent commercial project is [mncentrum][mnwebsite].
+- 🌱 I’m currently practicing React in-depth and learning react-native.
 - 🔭 2023 Goals: Spread my wings as a Front-end Developer (try to lick a little backend).
 - ⚡ Fun fact: https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball.
 
