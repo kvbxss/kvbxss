@@ -2,7 +2,7 @@
 
 
 ## I am a Junior Frontend Dev.
-- ⚡ I am currently working on a Three.JS project and pursuing [fullstackopen][fullstackopen] course.
+- ⚡ I am currently working on a Three.JS project and pursuing [fullstackopen][fsopen] course.
 - 🎉 My recent commercial project is [mncentrum][mnwebsite].
 - 🌱 I’m currently practicing React in-depth and learning react-native.
 - 🔭 2023 Goals: Spread my wings as a Front-end Developer (try to lick a little backend).
@@ -33,4 +33,4 @@
 
 [portfolio]: https://www.jakubdownarowicz.pl/
 [mnwebsite]: https://mncentrum.com/
-[fullstackopen] https://fullstackopen.com/
+[fsopen] https://fullstackopen.com/
