@@ -33,4 +33,4 @@
 
 [portfolio]: https://www.jakubdownarowicz.pl/
 [mnwebsite]: https://mncentrum.com/
-[fsopen] https://fullstackopen.com/
+[fsopen]: https://fullstackopen.com/
