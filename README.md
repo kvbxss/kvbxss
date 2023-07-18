@@ -2,7 +2,7 @@
 
 
 ## I am a Junior Frontend Dev.
-- ⚡ I am currently working on a Three.JS project and pursuing [fullstackopen][fsopen] course.
+- ⚡ I am currently working on a Next.js project and pursuing [fullstackopen][fsopen] course.
 - 🎉 My recent commercial project is [mncentrum][mnwebsite].
 - 🌱 I’m currently practicing React in-depth and learning react-native.
 - 🔭 2023 Goals: Spread my wings as a Front-end Developer (try to lick a little backend).
