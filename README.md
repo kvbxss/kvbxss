@@ -2,8 +2,8 @@
 
 
 ## I am a Junior Frontend Dev.
-- ⚡ I am currently working on a Next.js project and pursuing [fullstackopen][fsopen] course.
-- 🎉 My recent commercial project is [mncentrum][mnwebsite].
+- ⚡ I am currently working on a big project and pursuing [fullstackopen][fsopen] course.
+- 🎉 My recent commercial project is UrCup system for store management.
 - 🌱 I’m currently practicing React in-depth and learning backend.
 - 🔭 2023 Goals: Spread my wings as a Front-end Developer.
 - ⚡ Fun fact: https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball.
