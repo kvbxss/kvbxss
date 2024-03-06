@@ -1,11 +1,10 @@
 ### Hi there, I'm Jacob - [jakubdownarowicz][portfolio] 👋
 
 
-## I am a Junior Frontend Dev.
-- ⚡ I am currently working on a big project and pursuing [fullstackopen][fsopen] course.
+## I am a Frontend Dev.
+- ⚡ I am currently working on Apiary project.
 - 🎉 My recent commercial project is UrCup system for store management.
-- 🌱 I’m currently practicing React in-depth and learning backend.
-- 🔭 2023 Goals: Spread my wings as a Front-end Developer.
+- 🌱 I’m currently practicing Next.js in-depth and learning backend.
 - ⚡ Fun fact: https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball.
 
 <br />
@@ -37,6 +36,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2
 ![kvbxss GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbxss)
 
 
-[portfolio]: https://jakubdownarowicz.netlify.app/
-[mnwebsite]: https://mncentrum.com/
-[fsopen]: https://fullstackopen.com/
+[portfolio]: https://downarovicz.it
