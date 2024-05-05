@@ -1,7 +1,7 @@
 ### Hi there, I'm Jacob - [jakubdownarowicz][portfolio] 👋
 
 
-## I am a Frontend Dev.
+## I am a Mid Fullstack Dev.
 - ⚡ I am currently working on Apiary project.
 - 🎉 My recent commercial project is UrCup system for store management.
 - 🌱 I’m currently practicing Next.js in-depth and learning backend.
