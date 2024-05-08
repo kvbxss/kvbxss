@@ -4,7 +4,7 @@
 ## I am a Mid Fullstack Dev.
 - ⚡ I am currently working on Apiary project.
 - 🎉 My recent commercial project is UrCup system for store management.
-- 🌱 I’m currently practicing Next.js in-depth and learning backend.
+- 🌱 I’m currently learning e2e and unit testing.
 - ⚡ Fun fact: https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball.
 
 <br />
