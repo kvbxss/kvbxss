@@ -34,4 +34,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2
 ![kvbxss GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbxss)
 
 
-[portfolio]: https://downarovicz.tech
+[portfolio]: https://downarovicz.netlify.app
+
