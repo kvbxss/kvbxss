@@ -1,7 +1,7 @@
 ### Hi there, I'm Jacob - [jakubdownarowicz][portfolio] 👋
 
 
-## I am a Mid Fullstack Dev.
+## I am a Fullstack Developer
 - 🎉 My recent commercial project is MintLeasing Admin Dashboard + Website for a car leasing company, where you can manage cars, brands and feature codes for every car brand.
 - 🌱 I’m currently learning how to build RAG models using n8n and AI.
 - 👽 Also an active technician and member of the @mlodybialogard board.
