@@ -10,9 +10,8 @@
 <br />
 
 
-### Github Stats
-![kvbxss GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbxss)
 
 
-[portfolio]: https://dovvnarr.site
+[portfolio]: https://dovvnar.space
+
 
